@@ -1,6 +1,6 @@
-<!-- Banner GIF (replace this with your own if you'd like) -->
+<!-- Sleek Futuristic Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome Banner" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Futuristic Welcome Banner" />
 </p>
 
 # Hi there, I'm Mahmoud! 👋 <img src="https://raw.githubusercontent.com/MahmoudElbaal/MahmoudElbaal/main/wave.gif" width="30px" height="30px" />
@@ -22,8 +22,13 @@ Welcome to my GitHub profile! I’m passionate about transforming data into insi
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/-Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?style=for-the-badge&logo=power-automate&logoColor=white)
+![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSRS](https://img.shields.io/badge/-SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 
 ---
 
@@ -52,8 +57,9 @@ Welcome to my GitHub profile! I’m passionate about transforming data into insi
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-elbaal-535a2b278)
-- 📧 [Email](mahmoud.z.elbaal@gmail.com )
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 📧 [Email](mailto:your.email@example.com)
 
 ---
 
