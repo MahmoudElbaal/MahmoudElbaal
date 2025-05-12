@@ -1,6 +1,8 @@
+<!-- Sleek Futuristic Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="600" alt="Futuristic Tech Banner" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Futuristic Welcome Banner" />
 </p>
+
 
 # Hi there, I'm Mahmoud! 👋 <img src="https://raw.githubusercontent.com/MahmoudElbaal/MahmoudElbaal/main/wave.gif" width="30px" height="30px" />
 
@@ -56,9 +58,8 @@ Welcome to my GitHub profile! I’m passionate about transforming data into insi
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-elbaal-535a2b278)
+- 📧 [Email](mahmoud.z.elbaal@gmail.com )
 
 ---
 
