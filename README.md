@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/2cQe4kVnYJIAAAAC/banner-welcome.gif" width="600" alt="Glitch Welcome Banner" />
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="600" alt="Futuristic Tech Banner" />
 </p>
-
-
 
 # Hi there, I'm Mahmoud! 👋 <img src="https://raw.githubusercontent.com/MahmoudElbaal/MahmoudElbaal/main/wave.gif" width="30px" height="30px" />
 
