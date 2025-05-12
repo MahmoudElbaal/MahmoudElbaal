@@ -52,9 +52,8 @@ Welcome to my GitHub profile! I’m passionate about transforming data into insi
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 [Email](mailto:your.email@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud-elbaal-535a2b278)
+- 📧 [Email](mahmoud.z.elbaal@gmail.com )
 
 ---
 
